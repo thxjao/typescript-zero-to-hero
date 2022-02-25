@@ -1,2 +1,2 @@
-# typescript-zero-to-hero
-A vault containing resumes of the contents that i used to learn typescript from a javascript background.
+# Typescript Zero to Hero
+This repository contain all the resumes that I wrote while i was studying Typescript. 
